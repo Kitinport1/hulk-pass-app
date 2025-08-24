@@ -255,4 +255,3 @@ publicar, distribuir, sublicenciar e/ou vender cópias do software...
 
 ---  
 
-Esse README está completo e pronto para ser usado no seu repositório! 😊
